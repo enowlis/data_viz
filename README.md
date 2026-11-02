@@ -6,7 +6,7 @@ By Eliana Nowlis
 ## Description
 This project explores global tourism through a variety of metrics, examining how countries' relationships with tourism differ and how major world events influence inbound and outbound tourism. It is presented in a magazine-style format to make the data and takeaways accessible and enjoyable to explore for a broad audience.
 
-![](../static-viz/static_viz_project.png)
+![](static-viz/static_viz_project.png)
 
 ## Data Sources
 
