@@ -11,4 +11,5 @@ dependencies = [
     "openpyxl>=3.1.5",
     "pandas>=3.0.6",
     "pathlib>=1.0.1",
+    "vega-datasets>=0.9.0",
 ]
